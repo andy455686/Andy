@@ -6,7 +6,6 @@ int main()
 
 cout << "hello";
 
-cout << 5;
 
 
 
