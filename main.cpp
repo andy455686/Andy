@@ -6,5 +6,5 @@ int main()
 
 cout << "hello";
 
-
+cout << 3;
 }
